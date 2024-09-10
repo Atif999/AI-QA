@@ -20,10 +20,11 @@ Other: Multer (file handling), pdf-parse (PDF text extraction), dotenv (environm
 
 
 **Setup and Installation**
-1. Clone the Repository
 
-git clone https://github.com/your-username/ai-enhanced-document-qa.git
-cd ai-enhanced-document-qa
+**1. Clone the Repository**
+
+git clone https://github.com/Atif999/AI-QA.git
+cd AI-QA
 
 **2. Backend Setup**
 Navigate to the backend directory:
