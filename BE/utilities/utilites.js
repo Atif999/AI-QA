@@ -34,6 +34,8 @@ async function generateEmbeddings(chunks) {
       },
       {
         headers: {
+          // To create embeddings we are using the openai api and we calling it's api here
+          //and you can do it by adding your API key in .env file
           Authorization: `Bearer ${process.env.API_KEY_OPENAI}`,
           "Content-Type": "application/json",
         },
@@ -73,6 +75,7 @@ async function retrieveFromPinecone(question, pinecone) {
     },
     {
       headers: {
+        // Here also we are asking the question through openai API and getting the answers response
         Authorization: `Bearer ${process.env.API_KEY_OPENAI}`,
         "Content-Type": "application/json",
       },
