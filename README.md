@@ -1,15 +1,15 @@
-**AI-Enhanced Document QA System**
-This project is an AI-powered question-answering system that ingests documents, extracts relevant information, and answers
+**AI-Enhanced Document QA System**<br>
+This project is an AI-powered question-answering system that ingests documents, extracts relevant information, and answers<br>
 questions based on the content of those documents. It leverages advanced AI models and vector databases like Pinecone for efficient information retrieval.
 
-**Table of Contents**
-Features
-Technologies Used
-Project Structure
-Setup and Installation
-Environment Variables
-Running the Backend
-Running the Frontend
+**Table of Contents**<br>
+Features<br>
+Technologies Used<br>
+Project Structure<br>
+Setup and Installation<br>
+Environment Variables<br>
+Running the Backend<br>
+Running the Frontend<br>
 
 
 **Technologies Used**
